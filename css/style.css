@@ -1,0 +1,74 @@
+.div {
+    width: 700px;
+    height: 600px;
+    border: solid;
+    margin-top: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.h2 {
+    font-size: 25px;
+    color: black;
+}
+.img {
+    width: 500px;
+    height: 500px;
+    border: solid;
+    border-color: black;
+}
+.div-kom {
+
+}
+.com-kom {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.div2 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.sami {
+    margin-top: 50px
+}
+.otxi {
+    margin-top: 50px;
+}
+.xuti {
+    margin-top: 50px;
+}
+.eqvsi {
+    margin-top: 50px;
+}
+.shvidi {
+    margin-top: 50px;
+}
+.rva {
+    margin-top: 50px;
+}
+.cxra {
+    margin-top: 50px;
+}
+.ati {
+    margin-top: 50px;
+}
+.tertmeti {
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.tormetri {
+    margin-top: 50px;
+}
+.mecamete {
+    margin-top: 50px;
+}
+.metotxmete {
+    margin-top: 50px;
+}
